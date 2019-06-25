@@ -1,6 +1,8 @@
 # Island-Arcadia
 An island floating in the VRChat universe. 
 
+For suggestions or questions check out my discord: 
+
 Initially created and uploaded to VRChat on Friday 21 June 2019. 
 Published to the Public saturday 22 June 2019.
 
@@ -15,6 +17,11 @@ Published to the Public saturday 22 June 2019.
     - Bed, pillows, Movie Player, Mirror
     - reset button for pillows
     - invisible chair for pillows
+    - Add small cloud island
+        - chess board
+        - Meditation pillows 
+        - reset button for chess 
+    - shaders for cloud 
     
   - Jump Puzzle 3
     - Path to ride the Whale
@@ -23,8 +30,11 @@ Published to the Public saturday 22 June 2019.
     
   - Other
     - Grass/ illuminated flowers
+        - shaders 
     - Spinning rocks
     - Shaders on rocks
+       - for when they appear have them materialize in
+    - Rock pathing -> completion button to stairs
     - Welcome Board
       - Discord link
       - Github info
