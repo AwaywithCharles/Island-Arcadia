@@ -7,13 +7,11 @@ Published to the Public saturday 22 June 2019.
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
 INW update
-  - Focus
-    - First Jump Island
-    - Flowers
+  - Hoverbike Reset
 
 <B>Update History:</B>  
 
-6/26/2019 - 72.67mb
+6/25/2019 - 72.67mb
   - Managed children/game object folders for islands and paths
   - added path for 2nd secret island along with island
   - fixed some rock interactions
