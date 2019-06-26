@@ -1,11 +1,8 @@
 # Island-Arcadia
-An island floating in the VRChat universe.
+<b>Backstory:</b> <i>The Name is unimportant. Names are like anchors, they ground you to your current reality.  Right now, Island Arcadia, is simply an island floating in the vast universe. The world can change, all from the toggle of a rock. </i>
 
 Initially created and uploaded to VRChat on Friday 21 June 2019. 
 Published to the Public saturday 22 June 2019.
-
-<b>Backstory:</b>
-<i>The Name is unimportant. Names are like anchors, they ground you to your current reality.  Right now, Island Arcadia, is simply an island floating in the vast universe. The world can change, all from the toggle of a rock. </i>
 
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
