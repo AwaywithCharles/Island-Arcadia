@@ -66,11 +66,11 @@ For suggestions, recommendations, bug reports, and questions check out my discor
        - Use the skybox as texture for the pillows
     - Quest optimization
 
-<b> INW update </b> 
+INW update
 
-Update History:  
+<B>Update History:</B>  
 
-6/26/2019  
+6/26/2019 - 72.67mb
   - Managed children/game object folders for islands and paths
   - added path for 2nd secret island along with island
   - fixed some rock interactions
