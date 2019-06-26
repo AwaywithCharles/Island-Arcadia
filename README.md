@@ -100,6 +100,9 @@ For suggestions, recommendations, bug reports, and questions check out my discor
     - Quest optimization
 
 INW update
+  - Focus
+    - First Jump Island
+    - Flowers
 
 <B>Update History:</B>  
 
