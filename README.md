@@ -67,8 +67,8 @@ For suggestions, recommendations, bug reports, and questions check out my discor
     - Quest optimization
 
 <b> Update History: </b> (Japan time)
-INW Update (Secret island 1)
-  - 
+
+INW Update 
   - 
 
 6/26/2019 
