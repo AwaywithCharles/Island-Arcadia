@@ -1,15 +1,15 @@
 Goals:
 
   - Make island spawns world not local
+
+- Jump Puzzle 1 (implemented)
   
-  - Jump Puzzle 1 (implemented)
-  
-   - Add mirror
-     - Mirror Triggers
+   ~~- Add mirror
+    - Mirror Triggers ~~
     - Hover Bike
       - reset button for hoverbike
-    - Pillows
-      - Pillow Spawn Trigger
+    ~~- Pillows 
+      - Pillow Spawn Trigger ~~
       - Reset button
     - Floating Chair
     - Advance Features
