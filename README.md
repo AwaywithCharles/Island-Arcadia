@@ -9,28 +9,52 @@ Published to the Public saturday 22 June 2019.
 
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
+
 <b>Goals:</b> 
+
+  - Make island spawns permanent per instanced map
 
   - Jump Puzzle 1 (implemented)
     - Add mirror
-    - animate completion rock button to form rocks into stairs
-    - reset button for hoverbike
-    
+      - Mirror Triggers
+    - Hover Bike
+      - reset button for hoverbike
+    - Pillows
+      - Pillow Spawn Trigger
+      - Reset button
+    - Floating Chair
+      - 
+    - Advance Features
+      - animate completion rock button to form rocks into stairs
+ 
     
   - Jump Puzzle 2
-    - Bed, pillows, Movie Player, Mirror
-    - reset button for pillows
-    - invisible chair for pillows
     - Add small cloud island
         - chess board
         - Meditation pillows 
         - reset button for chess 
-    - shaders for cloud 
+        - shaders for cloud 
+    - Hidden Room
+       - OnInteract
+          - TelportIn
+          - Disable all Local main effects
+          - 
+       - Objects
+          - Bed (add late for filesize saving)
+          - Pillows
+              - Reset Button (SendRPC)
+          - Movie Player
+          - Mirror
+          - Invisible Chair
+       - Features
+
+    
     
   - Jump Puzzle 3
     - Path to ride the Whale
     - Colliders and seats on the whale
     - Fix whale animation to be fluid all the way through/around
+
 
   - Hidden Room 1 
     - teleport In
@@ -41,7 +65,7 @@ For suggestions, recommendations, bug reports, and questions check out my discor
             - Particles on/music list on
     - mirrors
         - Walkthrough (for entrance) and nonwalk through
-    - Rune
+    - Room Effects
       - OnInteract
           - Play music
           - Materialize Spinning Rocks
@@ -62,7 +86,8 @@ For suggestions, recommendations, bug reports, and questions check out my discor
       - Hinds
       - hideable
       
-  - Optimize
+      
+  - Optimization
     - Flag unmovable objects as lightmap static
     - decimate objects to lower poly count
     - combine as many objects as possible 
