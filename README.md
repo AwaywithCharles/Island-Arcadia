@@ -27,6 +27,16 @@ Published to the Public saturday 22 June 2019.
     - Path to ride the Whale
     - Colliders and seats on the whale
     - Fix whale animation to be fluid all the way through/around
+
+  - Secret Feature/room 1
+    - teleport to/from
+    - mirrors
+    - lanterns
+    - shaders
+    - occlusion culling so it uploads initial area 
+
+
+
     
   - Other
     - Grass/ illuminated flowers
