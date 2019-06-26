@@ -87,3 +87,4 @@ Goals:
   - Combine textures and remap (like the rocks but for everyhthing else)
   - Use the skybox as texture for the pillows
   - Quest optimization
+  - Turn one mirror on, automatically turn off the other one.
