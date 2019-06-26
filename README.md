@@ -5,7 +5,7 @@ Initially created and uploaded to VRChat on Friday 21 June 2019.
 Published to the Public saturday 22 June 2019.
 
 <b>Backstory(INW):</b>
-<i>The Name is unimportant. Names are like anchors, they ground you to your current reality.  Right now, Island Arcadia, is simply an island floating in the vast universe.  A well-preserved island of wonders and enlightenments.  The ambiance can change, granting one a humble and calm feeling.  </i>
+<i>The Name is unimportant. Names are like anchors, they ground you to your current reality.  Right now, Island Arcadia, is simply an island floating in the vast universe.  A well-preserved island of mysteries, wonders, and enlightenments.  The ambiance can change, all from the toggle of a rock.  </i>
 
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
@@ -66,8 +66,22 @@ For suggestions, recommendations, bug reports, and questions check out my discor
        - Use the skybox as texture for the pillows
     - Quest optimization
 
-<b> Update History </b>
+<b> Update History: </b> (Japan time)
+INW Update (Secret island 1)
+  - 
+  - 
 
+6/26/2019 
+  - Managed children/game object folders for islands and paths
+  - added path for 2nd secret island along with island
+  - fixed some rock interactions
+  - set several rocks to static for baked lighting
+  - switch to unity 2017.4.28f1
+  - SDK updated to 2019.06.21.13.53_Public
+  - adjusted main island 2nd mirror distance
+  - Scattered some flowers on primary island
+  - changed description
+  
 6/23/2019
   - added toggle light
   - removed all grass and switch to 5 small flowers for later implimination
