@@ -7,12 +7,17 @@ Published to the Public saturday 22 June 2019.
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
 INW update
-  - Hoverbike Reset
+
+<B>Update History:</B>  
+
+6/26/2019 - 
+  - Hoverbike Reset (still not workin)
   - Mirror on Secret island 1
   - Updated discription
   - Shaders on flowers
-
-<B>Update History:</B>  
+  - Toggle 2nd lighting (for desktop users when to dark)
+  - repositioned dead log
+  - optimized some of the mirrors to turn off other mirrors
 
 6/25/2019 - 72.67mb
   - Managed children/game object folders for islands and paths
@@ -24,6 +29,7 @@ INW update
   - adjusted main island 2nd mirror distance
   - Scattered some flowers on primary island
   - changed description
+  
   
 6/23/2019
   - added toggle light
