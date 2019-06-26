@@ -1,6 +1,7 @@
 Goals:
 
   - Make island spawns world not local
+  - Modify flowers in blender, rather than 6 pieces, make it one 3 piece cluster. 
 
 - Jump Puzzle 1 (implemented)
   
