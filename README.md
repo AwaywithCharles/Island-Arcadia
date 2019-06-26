@@ -7,6 +7,11 @@ Published to the Public saturday 22 June 2019.
 For suggestions, recommendations, bug reports, and questions check out my discord: 
 
 INW update
+  
+   - Hoverbike Reset
+      - SendRPC fix; both objects need to have objectsync, dont need event sync.  need an emtpy object at the place want it to teleport to.  Have to teleport each object seperately.  (need an empty object to send it to, when pasting,objects, need to assign object to teleport again). 
+       - Move light toggle rock to something smaller and somewhere else.  
+
 
 <B>Update History:</B>  
 
