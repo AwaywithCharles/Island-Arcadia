@@ -1,10 +1,13 @@
 # Island-Arcadia
-An island floating in the VRChat universe. 
-
-For suggestions or questions check out my discord: 
+An island floating in the VRChat universe.
 
 Initially created and uploaded to VRChat on Friday 21 June 2019. 
 Published to the Public saturday 22 June 2019.
+
+<b>Backstory(INW):</b>
+<i>The Name is unimportant. Names are like anchors, they ground you to your current reality.  Right now, Island Arcadia, is simply an island floating in the vast universe.  A well-preserved island of wonders and enlightenments.  The ambiance can change, granting one a humble and calm feeling.  </i>
+
+For suggestions, recommendations, bug reports, and questions check out my discord: 
 
 <b>Goals:</b> 
 
@@ -61,6 +64,7 @@ Published to the Public saturday 22 June 2019.
     - Reduce materials used
     - Combine textures and remap (like the rocks but for everyhthing else)
        - Use the skybox as texture for the pillows
+    - Quest optimization
 
 <b> Update History </b>
 
