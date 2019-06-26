@@ -17,7 +17,9 @@ INW update
   - Shaders on flowers
   - Toggle 2nd lighting (for desktop users when to dark)
   - repositioned dead log
-  - optimized some of the mirrors to turn off other mirrors
+  - slight ptimized some of the mirrors to turn off other mirrors
+  - added pillows
+  - toggled to start world with particles on
 
 6/25/2019 - 72.67mb
   - Managed children/game object folders for islands and paths
