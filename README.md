@@ -16,6 +16,7 @@ For suggestions, recommendations, bug reports, and questions check out my discor
     - animate completion rock button to form rocks into stairs
     - reset button for hoverbike
     
+    
   - Jump Puzzle 2
     - Bed, pillows, Movie Player, Mirror
     - reset button for pillows
@@ -31,16 +32,23 @@ For suggestions, recommendations, bug reports, and questions check out my discor
     - Colliders and seats on the whale
     - Fix whale animation to be fluid all the way through/around
 
-  - Secret Feature/room 1
-    - teleport to/from
+  - Hidden Room 1 
+    - teleport In
+        - Disable all features outside room
+    - Teleport Out
+        - Disable all features in room
+        - onInteract enable initial world load settings
+            - Particles on/music list on
     - mirrors
-    - lanterns
-    - shaders
+        - Walkthrough (for entrance) and nonwalk through
+    - Rune
+      - OnInteract
+          - Play music
+          - Materialize Spinning Rocks
+            - Fixed Spinning Glow effects
     - occlusion culling so it uploads initial area 
 
 
-
-    
   - Other
     - Grass/ illuminated flowers
         - shaders 
