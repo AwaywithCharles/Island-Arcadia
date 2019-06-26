@@ -51,40 +51,39 @@ Goals:
           - Disable all features outside room
       - Teleport Out
           - Disable all features in room
-onInteract enable initial world load settings
-Particles on/music list on
-mirrors
-Walkthrough (for entrance) and nonwalk through
-Room Effects
-OnInteract
-Play music
-Materialize Spinning Rocks
-Fixed Spinning Glow effects
-occlusion culling so it uploads initial area
-Other
+      - onInteract enable initial world load settings
+          - Particles on/music list on
+      - mirrors
+      - Walkthrough (for entrance) and nonwalk through
+      - Room Effects
+          - OnInteract
+          - Play music
+          - Materialize Spinning Rocks
+          - Fixed Spinning Glow effects
+      - occlusion culling so it uploads initial area+
+      
+  - Other:
 
-Grass/ illuminated flowers
-shaders
-Spinning rocks
-Shaders on rocks
-for when they appear have them materialize in
-Rock pathing -> completion button to stairs
-Welcome Board
-Discord link
-Github info
-Hinds
-hideable
+      - Grass/ illuminated flowers
+      - shaders
+      - Spinning rocks
+      - Shaders on rocks for when they appear have them materialize in
+      - Rock pathing -> completion button to stairs
+      - Welcome Board
+        - Discord link
+        - Github info
+        - hideable
 
 
-<b>Optimization</b>
+- <b>Optimization</b>
 
-Flag unmovable objects as lightmap static
-decimate objects to lower poly count
-combine as many objects as possible
-rock path combination
-flower combination / grass
-Bake Lights ( New object -> light ->light probes (for movable items bake the probe))
-Reduce materials used
-Combine textures and remap (like the rocks but for everyhthing else)
-Use the skybox as texture for the pillows
-Quest optimization
+  - Flag unmovable objects as lightmap static
+  - decimate objects to lower poly count
+  - combine as many objects as possible
+  - rock path combination
+  - flower combination / grass
+  - Bake Lights ( New object -> light ->light probes (for movable items bake the probe))
+  - Reduce materials used
+  - Combine textures and remap (like the rocks but for everyhthing else)
+  - Use the skybox as texture for the pillows
+  - Quest optimization
