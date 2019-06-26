@@ -12,7 +12,7 @@ For suggestions, recommendations, bug reports, and questions check out my discor
 
 <b>Goals:</b> 
 
-  - Make island spawns permanent per instanced map
+  - Make island spawns world not local
 
   - Jump Puzzle 1 (implemented)
     - Add mirror
