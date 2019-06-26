@@ -8,6 +8,9 @@ For suggestions, recommendations, bug reports, and questions check out my discor
 
 INW update
   - Hoverbike Reset
+  - Mirror on Secret island 1
+  - Updated discription
+  - Shaders on flowers
 
 <B>Update History:</B>  
 
