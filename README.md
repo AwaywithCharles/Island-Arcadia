@@ -8,7 +8,6 @@ For suggestions, recommendations, bug reports, and questions check out my discor
 
 INW update
   
-   - Hoverbike Reset
       - Pillow Chairs *upper and lower
       - Pillows at lower
       - Particles at upper
