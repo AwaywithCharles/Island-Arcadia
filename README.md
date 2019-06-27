@@ -9,11 +9,17 @@ For suggestions, recommendations, bug reports, and questions check out my discor
 INW update
   
    - Hoverbike Reset
-      - SendRPC fix; both objects need to have objectsync, dont need event sync.  need an emtpy object at the place want it to teleport to.  Have to teleport each object seperately.  (need an empty object to send it to, when pasting,objects, need to assign object to teleport again). 
-       - Move light toggle rock to something smaller and somewhere else.  
+      - Pillow Chairs *upper and lower
+      - Pillows at lower
+      - Particles at upper
 
 
-<B>Update History:</B>  
+<B>Update History:</B> 
+
+6/27/2019 - 72.70
+  - added small dead log to main island
+  - hoverbike reset now working
+  - Pillow fix
 
 6/26/2019 - 72.69
   - Hoverbike Reset (still not workin)
