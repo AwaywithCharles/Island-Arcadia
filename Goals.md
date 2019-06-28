@@ -2,16 +2,15 @@ Goals:
 
   - Make island spawns world not local
   - Modify flowers in blender, rather than 6 pieces, make it one 3 piece cluster. 
+  - Portal room (connect the multiverse)
+    - portal to Forward Operating Base Icarus
+    - Portal to Club Synergy
+    - Portal to Reflect
 
 - Jump Puzzle 1 (implemented)
   
-   ~~- Add mirror
-    - Mirror Triggers ~~
-    - Hover Bike
-      - reset button for hoverbike
-    ~~- Pillows 
-      - Pillow Spawn Trigger ~~
-      - Reset button
+   - Add low qua mirror
+    - Mirror Trigger
     - Floating Chair
     - Advance Features
       - animate completion rock button to form rocks into stairs
