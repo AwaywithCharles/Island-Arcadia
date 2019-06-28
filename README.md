@@ -8,17 +8,18 @@ For suggestions, recommendations, bug reports, and questions check out my discor
 
 INW update
   
-      - Pillow Chairs *upper and lower
+      - Pillow Chairs and lower
       - Pillows at lower
       - Particles at upper
 
 
 <B>Update History:</B> 
 
-6/27/2019 - 72.70
+6/27/2019 - 74.28
   - added small dead log to main island
   - hoverbike reset now working
   - Pillow fix
+  - invisible chair at upper pillow
 
 6/26/2019 - 72.69
   - Hoverbike Reset (still not workin)
